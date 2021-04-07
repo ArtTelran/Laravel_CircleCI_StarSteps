@@ -1,0 +1,10 @@
+#1 Create DB in Phpmyadmin called "ArtemLaravel"
+#2 Composer Install
+#3 Composer Update
+#4 Composer require laravel/passport
+cp .env.testing .env       !!!!!!!
+#5 php artisan migrate
+#6 php artisan:install
+======================
+Create CircleCI Account and Link a new project to your Github Repository
+
